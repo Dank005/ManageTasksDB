@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\С# projects\ManageStaffDBApp\ManageStaffDBApp\App.xaml
-1-1711142684
+81940675619
 
-11388778772
+18345173844
 13-1505183044
-View\MainWindow.xaml;
+View\EditDepartmentWindow.xaml;View\AddNewDepartmentWindow.xaml;View\AddNewPositionWindow.xaml;View\AddNewUserWindow.xaml;View\EditPositionWindow.xaml;View\EditUserWindow.xaml;View\MainWindow.xaml;View\MessageView.xaml;
 
 True
 
